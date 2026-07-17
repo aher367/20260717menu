@@ -111,6 +111,12 @@ section {
   margin-top: 0;
 }
 
+.allergen-note {
+  font-size: 13px;
+  color: #c87542;
+  margin: 4px 0 0 0;
+}
+
 .item-footer {
   display: flex;
   align-items: center;
